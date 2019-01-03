@@ -1,0 +1,3 @@
+[gui_scripts]
+scrambler = face_scrambler.__main__:main
+
